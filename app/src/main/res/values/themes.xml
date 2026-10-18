@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ACTestLab" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

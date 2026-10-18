@@ -1,0 +1,2 @@
+-keep class com.example.actestlab.domain.** { *; }
+-keepclassmembers class kotlinx.coroutines.** { volatile <fields>; }
